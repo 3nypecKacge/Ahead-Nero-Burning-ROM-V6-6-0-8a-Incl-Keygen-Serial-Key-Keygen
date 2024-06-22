@@ -17,13 +17,14 @@
 *   Data Science II (Machine Learning)
 *   Data Structures in C
 *   Probability
+*   Linear Algebra, Part I
+*   Optimization, Part I
+
 
 **Courses on [Arabsera's Youtube Channel (still recording)](http://www.youtube.com/fcihocw):**
 
 *   [Statistics](Statistics)
-*   [Linear Algebra](LinearAlgebra)
 *   [Data Visualization](DataVisualization)
-*   [Optimization](Optimization)
 
 **Other Courses:** (not recorded yet)
 
